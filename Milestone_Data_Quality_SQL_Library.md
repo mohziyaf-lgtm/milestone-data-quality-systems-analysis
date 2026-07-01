@@ -373,4 +373,4 @@ The overall score lands at **38.8%** — fewer than two in five shipments are fu
 
 ---
 
-*Synthetic dataset and query library prepared as supporting evidence for the Milestone Data Quality Systems Analysis. All data is fabricated for demonstration of method; figures are reproducible by running the queries above against the generated dataset.*
+*Note: Synthetic dataset and query library prepared as supporting evidence for the Milestone Data Quality Systems Analysis. All data is fabricated for demonstration of method; figures are reproducible by running the queries above against the generated dataset.*

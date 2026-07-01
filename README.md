@@ -1,7 +1,7 @@
 # Milestone Data Quality, Systems Analysis and SQL Evidence
 
 **Portfolio Project, N M Ziyaf**
-Supply Chain Business Analyst, CargoWise One Certified, Six Sigma Black Belt
+Supply Chain Business Analyst
 
 ---
 
@@ -60,5 +60,7 @@ SQL based data quality analysis using completeness, timeliness, and validity mea
 ## Author
 
 N M Ziyaf
+
 Supply Chain Business Analyst, Sydney NSW
+
 linkedin.com/in/ziyafmohamed

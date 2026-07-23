@@ -1,6 +1,6 @@
 # Milestone Data Quality, Systems Analysis and SQL Evidence
 
-**Portfolio Project, N M Ziyaf**
+**N M Ziyaf**
 Supply Chain Business Analyst
 
 ---
